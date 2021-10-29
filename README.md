@@ -10,7 +10,7 @@
 
 <h3 align="left">🙋‍ About Me:</h3>
 
-I am Vishal Lazrus an incessant learner and a keen observer. I have skill in Compurer Science, Web development, Machine Learning and Artificial Neural network. I am always very excited and ready to learn somthing new in C++, Python, Javascript, Node-Js, React, Ml and ANN. I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network) and Power BI.
+I am Vishal Lazrus an incessant learner and a keen observer. I have skill in Computer Science, Web development, Machine Learning and Artificial Neural network. I am always very excited and ready to learn somthing new in C++, Python, Javascript, Node-Js, React, Ml and ANN. I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network) and Power BI.
 
 I’m currently learning Javascript, Power BI, Node-Js, React, MongoDB, Ml, ANN, Matplotlib, Pandas, and Sklearn.
 
