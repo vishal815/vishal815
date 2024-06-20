@@ -1,12 +1,12 @@
 <h1 align="center">Hi 🙋, I'm Vishal Lazrus</h1>
-<h3 align="center">As a DevOps and Machine Learning student, dedicated to gaining expertise in cutting-edge technologies that will shape the future of the industry. With a passion for innovation and problem-solving, also committed to continuous learning and professional development I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and dedicated to delivering high-quality results.</h3>
+<h3 align="center">As a DevOps and Machine Learning Enthusiast, dedicated to gaining expertise in cutting-edge technologies that will shape the future of the industry. With a passion for innovation and problem-solving, also committed to continuous learning and professional development I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and dedicated to delivering high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal815&label=Profile%20views&color=0e75b6&style=flat" alt="vishal815" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal815" alt="vishal815" /></a> </p>
 
-<h3 align="left">Portfolio:</h3>
-<p align="left">
+<h3 align="center">Portfolio:  👆click on image for visit</h3>
+<p align="center">
   <a href="https://vishal-lazrus-portfolio.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://i.pinimg.com/736x/4f/c5/86/4fc5866dc2e59e4e7f48c8e0df8139a8.jpg" alt="portfolio" width="40" height="40"/>
   </a>
