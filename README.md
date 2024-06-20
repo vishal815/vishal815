@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vishal Lazrus</h1>
+<h1 align="center">Hi 🙋, I'm Vishal Lazrus</h1>
 <h3 align="center">As a DevOps and Machine Learning student, dedicated to gaining expertise in cutting-edge technologies that will shape the future of the industry. With a passion for innovation and problem-solving, also committed to continuous learning and professional development I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning and dedicated to delivering high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal815&label=Profile%20views&color=0e75b6&style=flat" alt="vishal815" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal815" alt="vishal815" /></a> </p>
 
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://vishal-lazrus-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://i.pinimg.com/736x/4f/c5/86/4fc5866dc2e59e4e7f48c8e0df8139a8.jpg" alt="portfolio" width="40" height="40"/>
+  </a>
+</p>
+
 - 🌱 I’m currently learning **DevOps, Deep Learing, MERN stack and LLM.**
 
 - 📫 How to reach me **vishallazruzrus3210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VgCu9kl7HQdm0k1H4cZPMWH95Yl3vU_Z/view?usp=sharing](https://drive.google.com/file/d/1VgCu9kl7HQdm0k1H4cZPMWH95Yl3vU_Z/view?usp=sharing)
+- 📄 Know about my experiences through Resume [https://drive.google.com/file/d/1VgCu9kl7HQdm0k1H4cZPMWH95Yl3vU_Z/view?usp=sharing](https://drive.google.com/file/d/1VgCu9kl7HQdm0k1H4cZPMWH95Yl3vU_Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
